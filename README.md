@@ -1,18 +1,24 @@
-# Face_recognition_based_attendance_system
-A python GUI integrated attendance system using face recognition to take attendance.
 
-In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI (Graphical user interface) so it can be easy to use by anyone. GUI for this project is also made on python using tkinter.
 
-TECHNOLOGY USED:
-1) tkinter for whole GUI
-2) OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
-3) CSV, Numpy, Pandas, datetime etc. for other purposes.
+# **Python GUI Integrated Attendance System using Face Recognition**
 
-FEATURES:
-1) Easy to use with interactive GUI support.
-2) Password protection for new person registration.
-3) Creates/Updates CSV file for deatils of students on registration.
-4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
-5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+This project is a **Python-based attendance system** that leverages **face recognition** to mark attendance automatically. It is equipped with a **Graphical User Interface (GUI)** built with Tkinter, making it simple and user-friendly for anyone to operate.
+
+## **Technologies Used**
+
+1. **Tkinter** – For building the complete GUI.
+2. **OpenCV** – For capturing images and performing face recognition using `cv2.face.LBPHFaceRecognizer_create()`.
+3. **CSV, NumPy, Pandas, Datetime** – For data storage, manipulation, and attendance record management.
+
+## **Key Features**
+
+1. **User-Friendly Interface** – Interactive GUI support for ease of use.
+2. **Secure Registration** – Password protection enabled for registering new users.
+3. **Student Records Management** – Creates/updates a CSV file containing student details during registration.
+4. **Daily Attendance Tracking** – Generates a new CSV file each day to store attendance records with accurate date and time.
+5. **Real-Time Attendance Display** – Shows live attendance updates on the main screen in tabular form (ID, Name, Date, Time).
+
+
+
 
 
