@@ -1,0 +1,2 @@
+some sysytem has issue face_reconition to fix
+pip install opencv-contrib-python --upgrade 
